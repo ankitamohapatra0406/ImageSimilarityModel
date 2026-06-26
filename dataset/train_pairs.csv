@@ -1,0 +1,409 @@
+img1,img2,label
+dataset/train_original\PREIMG_1.png,dataset/train_generated\AI_1 - Priyanshu Chandra.png,1
+dataset/train_original\PREIMG_28.png,dataset/train_generated\AI_28 - ऋतू राज राय.jpeg,1
+dataset/train_original\PREIMG_5.png,dataset/train_generated\AI_7 - Shahdeo.png,0
+dataset/train_original\PREIMG_29.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_36.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,0
+dataset/train_original\PREIMG_21.png,dataset/train_generated\AI_29 - Baishanabee.jpg,0
+dataset/train_original\PREIMG_21.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,1
+dataset/train_original\PREIMG_6.png,dataset/train_generated\AI_5 - Umesh Kumar Sahu.png,0
+dataset/train_original\PREIMG_4.png,dataset/train_generated\AI_33 - Rojali Pradhan.png,0
+dataset/train_original\PREIMG_3.png,dataset/train_generated\AI_3 - Ritesh.png,1
+dataset/train_original\PREIMG_1.png,dataset/train_generated\AI_20 - Rishav.png,0
+dataset/train_original\PREIMG_39.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,0
+dataset/train_original\PREIMG_4.png,dataset/train_generated\AI_3 - Ritesh.png,0
+dataset/train_original\PREIMG_10.png,dataset/train_generated\AI_12 - Snehal Priyadarshi.png,0
+dataset/train_original\PREIMG_20.png,dataset/train_generated\AI_36 - Kuldeep Nayak.png,0
+dataset/train_original\PREIMG_8.png,dataset/train_generated\AI_7 - Shahdeo.png,0
+dataset/train_original\PREIMG_3.png,dataset/train_generated\AI_34 - P Ravali.png,0
+dataset/train_original\PREIMG_24.png,dataset/train_generated\AI_26 - Kshitij Prasad.png,0
+dataset/train_original\PREIMG_40.png,dataset/train_generated\AI_5 - Umesh Kumar Sahu.png,0
+dataset/train_original\PREIMG_18.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_19.png,dataset/train_generated\AI_18 - Rahul Kumar Baral.png,0
+dataset/train_original\PREIMG_16.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,0
+dataset/train_original\PREIMG_3.png,dataset/train_generated\AI_42 - Pruthwiraj Sahoo.png,0
+dataset/train_original\PREIMG_18.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,0
+dataset/train_original\PREIMG_2.png,dataset/train_generated\AI_3 - Ritesh.png,0
+dataset/train_original\PREIMG_11.png,dataset/train_generated\AI_13 - ᴅᴜʀɢᴀ ᴩʀᴀꜱᴀᴅ ɴᴀyᴀᴋ.png,0
+dataset/train_original\PREIMG_2.png,dataset/train_generated\AI_4 - Satyajeet Nayak.png,0
+dataset/train_original\PREIMG_6.png,dataset/train_generated\AI_33 - Rojali Pradhan.png,0
+dataset/train_original\PREIMG_26.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_22.png,dataset/train_generated\AI_15 - Satyajit Sethy.png,0
+dataset/train_original\PREIMG_30.png,dataset/train_generated\AI_14 - Subhadeep Chakraborty.png,0
+dataset/train_original\PREIMG_4.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_45.png,dataset/train_generated\AI_43 - Arpita Podh.png,0
+dataset/train_original\PREIMG_17.png,dataset/train_generated\AI_36 - Kuldeep Nayak.png,0
+dataset/train_original\PREIMG_22.png,dataset/train_generated\AI_20 - Rishav.png,0
+dataset/train_original\PREIMG_38.png,dataset/train_generated\AI_36 - Kuldeep Nayak.png,0
+dataset/train_original\PREIMG_33.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,0
+dataset/train_original\PREIMG_39.png,dataset/train_generated\AI_40 - Sai Sourav Sahu.png,0
+dataset/train_original\PREIMG_20.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_12.png,dataset/train_generated\AI_13 - ᴅᴜʀɢᴀ ᴩʀᴀꜱᴀᴅ ɴᴀyᴀᴋ.png,0
+dataset/train_original\PREIMG_25.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_40.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_1.png,dataset/train_generated\AI_13 - ᴅᴜʀɢᴀ ᴩʀᴀꜱᴀᴅ ɴᴀyᴀᴋ.png,0
+dataset/train_original\PREIMG_36.png,dataset/train_generated\AI_36 - Kuldeep Nayak.png,1
+dataset/train_original\PREIMG_20.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_41.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,1
+dataset/train_original\PREIMG_19.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_33.png,dataset/train_generated\AI_33 - Rojali Pradhan.png,1
+dataset/train_original\PREIMG_25.png,dataset/train_generated\AI_5 - Umesh Kumar Sahu.png,0
+dataset/train_original\PREIMG_1.png,dataset/train_generated\AI_19 - Abinash Behera.png,0
+dataset/train_original\PREIMG_4.png,dataset/train_generated\AI_45 - Sushant Shourya.png,0
+dataset/train_original\PREIMG_39.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,1
+dataset/train_original\PREIMG_15.png,dataset/train_generated\AI_16 - Taiki.png,0
+dataset/train_original\PREIMG_12.png,dataset/train_generated\AI_12 - Snehal Priyadarshi.png,1
+dataset/train_original\PREIMG_14.png,dataset/train_generated\AI_34 - P Ravali.png,0
+dataset/train_original\PREIMG_25.png,dataset/train_generated\AI_27 - Riyana Das Majumder.png,0
+dataset/train_original\PREIMG_28.png,dataset/train_generated\AI_26 - Kshitij Prasad.png,0
+dataset/train_original\PREIMG_34.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,0
+dataset/train_original\PREIMG_31.png,dataset/train_generated\AI_29 - Baishanabee.jpg,0
+dataset/train_original\PREIMG_7.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,0
+dataset/train_original\PREIMG_43.png,dataset/train_generated\AI_2 - Kaman Das.png,0
+dataset/train_original\PREIMG_6.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,1
+dataset/train_original\PREIMG_15.png,dataset/train_generated\AI_14 - Subhadeep Chakraborty.png,0
+dataset/train_original\PREIMG_1.png,dataset/train_generated\AI_2 - Kaman Das.png,0
+dataset/train_original\PREIMG_26.png,dataset/train_generated\AI_26 - Kshitij Prasad.png,1
+dataset/train_original\PREIMG_44.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_30.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,0
+dataset/train_original\PREIMG_13.png,dataset/train_generated\AI_12 - Snehal Priyadarshi.png,0
+dataset/train_original\PREIMG_46.png,dataset/train_generated\AI_3 - Ritesh.png,0
+dataset/train_original\PREIMG_46.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_14.png,dataset/train_generated\AI_13 - ᴅᴜʀɢᴀ ᴩʀᴀꜱᴀᴅ ɴᴀyᴀᴋ.png,0
+dataset/train_original\PREIMG_12.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_44.png,dataset/train_generated\AI_7 - Shahdeo.png,0
+dataset/train_original\PREIMG_37.png,dataset/train_generated\AI_37 - Kritiraj Satapathy.png,1
+dataset/train_original\PREIMG_5.png,dataset/train_generated\AI_4 - Satyajeet Nayak.png,0
+dataset/train_original\PREIMG_37.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,0
+dataset/train_original\PREIMG_8.png,dataset/train_generated\AI_19 - Abinash Behera.png,0
+dataset/train_original\PREIMG_1.png,dataset/train_generated\AI_3 - Ritesh.png,0
+dataset/train_original\PREIMG_18.png,dataset/train_generated\AI_16 - Taiki.png,0
+dataset/train_original\PREIMG_24.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,0
+dataset/train_original\PREIMG_18.png,dataset/train_generated\AI_20 - Rishav.png,0
+dataset/train_original\PREIMG_36.png,dataset/train_generated\AI_45 - Sushant Shourya.png,0
+dataset/train_original\PREIMG_20.png,dataset/train_generated\AI_19 - Abinash Behera.png,0
+dataset/train_original\PREIMG_43.png,dataset/train_generated\AI_45 - Sushant Shourya.png,0
+dataset/train_original\PREIMG_5.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,0
+dataset/train_original\PREIMG_43.png,dataset/train_generated\AI_20 - Rishav.png,0
+dataset/train_original\PREIMG_29.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_39.png,dataset/train_generated\AI_27 - Riyana Das Majumder.png,0
+dataset/train_original\PREIMG_27.png,dataset/train_generated\AI_27 - Riyana Das Majumder.png,1
+dataset/train_original\PREIMG_24.png,dataset/train_generated\AI_23 - Anuj Kumar.png,0
+dataset/train_original\PREIMG_2.png,dataset/train_generated\AI_1 - Priyanshu Chandra.png,0
+dataset/train_original\PREIMG_22.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_38.png,dataset/train_generated\AI_40 - Sai Sourav Sahu.png,0
+dataset/train_original\PREIMG_14.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_13.png,dataset/train_generated\AI_14 - Subhadeep Chakraborty.png,0
+dataset/train_original\PREIMG_9.png,dataset/train_generated\AI_17 - ARITRA PATRA.jpeg,0
+dataset/train_original\PREIMG_10.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_4.png,dataset/train_generated\AI_4 - Satyajeet Nayak.png,1
+dataset/train_original\PREIMG_42.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,0
+dataset/train_original\PREIMG_26.png,dataset/train_generated\AI_19 - Abinash Behera.png,0
+dataset/train_original\PREIMG_35.png,dataset/train_generated\AI_37 - Kritiraj Satapathy.png,0
+dataset/train_original\PREIMG_25.png,dataset/train_generated\AI_26 - Kshitij Prasad.png,0
+dataset/train_original\PREIMG_38.png,dataset/train_generated\AI_1 - Priyanshu Chandra.png,0
+dataset/train_original\PREIMG_12.png,dataset/train_generated\AI_9 - Biswanath Dash.png,0
+dataset/train_original\PREIMG_37.png,dataset/train_generated\AI_40 - Sai Sourav Sahu.png,0
+dataset/train_original\PREIMG_36.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_17.png,dataset/train_generated\AI_15 - Satyajit Sethy.png,0
+dataset/train_original\PREIMG_16.png,dataset/train_generated\AI_18 - Rahul Kumar Baral.png,0
+dataset/train_original\PREIMG_14.png,dataset/train_generated\AI_16 - Taiki.png,0
+dataset/train_original\PREIMG_44.png,dataset/train_generated\AI_43 - Arpita Podh.png,0
+dataset/train_original\PREIMG_31.png,dataset/train_generated\AI_30 - Aditya Swain.png,0
+dataset/train_original\PREIMG_31.png,dataset/train_generated\AI_2 - Kaman Das.png,0
+dataset/train_original\PREIMG_43.png,dataset/train_generated\AI_43 - Arpita Podh.png,1
+dataset/train_original\PREIMG_21.png,dataset/train_generated\AI_22 - Puspal Das.png,0
+dataset/train_original\PREIMG_46.png,dataset/train_generated\AI_16 - Taiki.png,0
+dataset/train_original\PREIMG_21.png,dataset/train_generated\AI_23 - Anuj Kumar.png,0
+dataset/train_original\PREIMG_19.png,dataset/train_generated\AI_20 - Rishav.png,0
+dataset/train_original\PREIMG_6.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,0
+dataset/train_original\PREIMG_23.png,dataset/train_generated\AI_7 - Shahdeo.png,0
+dataset/train_original\PREIMG_44.png,dataset/train_generated\AI_37 - Kritiraj Satapathy.png,0
+dataset/train_original\PREIMG_23.png,dataset/train_generated\AI_24 - Atul.png,0
+dataset/train_original\PREIMG_38.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,1
+dataset/train_original\PREIMG_12.png,dataset/train_generated\AI_10 - AMAN DASH.png,0
+dataset/train_original\PREIMG_15.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,0
+dataset/train_original\PREIMG_16.png,dataset/train_generated\AI_16 - Taiki.png,1
+dataset/train_original\PREIMG_33.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_15.png,dataset/train_generated\AI_17 - ARITRA PATRA.jpeg,0
+dataset/train_original\PREIMG_34.png,dataset/train_generated\AI_40 - Sai Sourav Sahu.png,0
+dataset/train_original\PREIMG_39.png,dataset/train_generated\AI_36 - Kuldeep Nayak.png,0
+dataset/train_original\PREIMG_42.png,dataset/train_generated\AI_43 - Arpita Podh.png,0
+dataset/train_original\PREIMG_21.png,dataset/train_generated\AI_20 - Rishav.png,0
+dataset/train_original\PREIMG_33.png,dataset/train_generated\AI_31 - Roniit Podder.png,0
+dataset/train_original\PREIMG_45.png,dataset/train_generated\AI_1 - Priyanshu Chandra.png,0
+dataset/train_original\PREIMG_16.png,dataset/train_generated\AI_14 - Subhadeep Chakraborty.png,0
+dataset/train_original\PREIMG_6.png,dataset/train_generated\AI_26 - Kshitij Prasad.png,0
+dataset/train_original\PREIMG_9.png,dataset/train_generated\AI_7 - Shahdeo.png,0
+dataset/train_original\PREIMG_46.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_9.png,dataset/train_generated\AI_10 - AMAN DASH.png,0
+dataset/train_original\PREIMG_30.png,dataset/train_generated\AI_34 - P Ravali.png,0
+dataset/train_original\PREIMG_20.png,dataset/train_generated\AI_18 - Rahul Kumar Baral.png,0
+dataset/train_original\PREIMG_6.png,dataset/train_generated\AI_37 - Kritiraj Satapathy.png,0
+dataset/train_original\PREIMG_16.png,dataset/train_generated\AI_23 - Anuj Kumar.png,0
+dataset/train_original\PREIMG_10.png,dataset/train_generated\AI_9 - Biswanath Dash.png,0
+dataset/train_original\PREIMG_26.png,dataset/train_generated\AI_27 - Riyana Das Majumder.png,0
+dataset/train_original\PREIMG_10.png,dataset/train_generated\AI_10 - AMAN DASH.png,1
+dataset/train_original\PREIMG_8.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,0
+dataset/train_original\PREIMG_24.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_18.png,dataset/train_generated\AI_12 - Snehal Priyadarshi.png,0
+dataset/train_original\PREIMG_25.png,dataset/train_generated\AI_24 - Atul.png,0
+dataset/train_original\PREIMG_27.png,dataset/train_generated\AI_28 - ऋतू राज राय.jpeg,0
+dataset/train_original\PREIMG_24.png,dataset/train_generated\AI_30 - Aditya Swain.png,0
+dataset/train_original\PREIMG_40.png,dataset/train_generated\AI_28 - ऋतू राज राय.jpeg,0
+dataset/train_original\PREIMG_9.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_27.png,dataset/train_generated\AI_17 - ARITRA PATRA.jpeg,0
+dataset/train_original\PREIMG_11.png,dataset/train_generated\AI_1 - Priyanshu Chandra.png,0
+dataset/train_original\PREIMG_42.png,dataset/train_generated\AI_40 - Sai Sourav Sahu.png,0
+dataset/train_original\PREIMG_8.png,dataset/train_generated\AI_8 - Shivangi Swain.png,1
+dataset/train_original\PREIMG_32.png,dataset/train_generated\AI_36 - Kuldeep Nayak.png,0
+dataset/train_original\PREIMG_37.png,dataset/train_generated\AI_22 - Puspal Das.png,0
+dataset/train_original\PREIMG_33.png,dataset/train_generated\AI_32 - Aruba Ariz.png,0
+dataset/train_original\PREIMG_14.png,dataset/train_generated\AI_26 - Kshitij Prasad.png,0
+dataset/train_original\PREIMG_39.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,0
+dataset/train_original\PREIMG_11.png,dataset/train_generated\AI_9 - Biswanath Dash.png,0
+dataset/train_original\PREIMG_17.png,dataset/train_generated\AI_16 - Taiki.png,0
+dataset/train_original\PREIMG_27.png,dataset/train_generated\AI_29 - Baishanabee.jpg,0
+dataset/train_original\PREIMG_8.png,dataset/train_generated\AI_10 - AMAN DASH.png,0
+dataset/train_original\PREIMG_31.png,dataset/train_generated\AI_24 - Atul.png,0
+dataset/train_original\PREIMG_18.png,dataset/train_generated\AI_19 - Abinash Behera.png,0
+dataset/train_original\PREIMG_13.png,dataset/train_generated\AI_7 - Shahdeo.png,0
+dataset/train_original\PREIMG_6.png,dataset/train_generated\AI_8 - Shivangi Swain.png,0
+dataset/train_original\PREIMG_17.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_37.png,dataset/train_generated\AI_31 - Roniit Podder.png,0
+dataset/train_original\PREIMG_45.png,dataset/train_generated\AI_45 - Sushant Shourya.png,1
+dataset/train_original\PREIMG_41.png,dataset/train_generated\AI_27 - Riyana Das Majumder.png,0
+dataset/train_original\PREIMG_10.png,dataset/train_generated\AI_24 - Atul.png,0
+dataset/train_original\PREIMG_22.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_20.png,dataset/train_generated\AI_29 - Baishanabee.jpg,0
+dataset/train_original\PREIMG_34.png,dataset/train_generated\AI_36 - Kuldeep Nayak.png,0
+dataset/train_original\PREIMG_14.png,dataset/train_generated\AI_15 - Satyajit Sethy.png,0
+dataset/train_original\PREIMG_41.png,dataset/train_generated\AI_40 - Sai Sourav Sahu.png,0
+dataset/train_original\PREIMG_32.png,dataset/train_generated\AI_34 - P Ravali.png,0
+dataset/train_original\PREIMG_30.png,dataset/train_generated\AI_29 - Baishanabee.jpg,0
+dataset/train_original\PREIMG_7.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,0
+dataset/train_original\PREIMG_33.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_23.png,dataset/train_generated\AI_23 - Anuj Kumar.png,1
+dataset/train_original\PREIMG_34.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,0
+dataset/train_original\PREIMG_30.png,dataset/train_generated\AI_32 - Aruba Ariz.png,0
+dataset/train_original\PREIMG_35.png,dataset/train_generated\AI_33 - Rojali Pradhan.png,0
+dataset/train_original\PREIMG_29.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,0
+dataset/train_original\PREIMG_41.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_34.png,dataset/train_generated\AI_32 - Aruba Ariz.png,0
+dataset/train_original\PREIMG_46.png,dataset/train_generated\AI_45 - Sushant Shourya.png,0
+dataset/train_original\PREIMG_35.png,dataset/train_generated\AI_17 - ARITRA PATRA.jpeg,0
+dataset/train_original\PREIMG_24.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_2.png,dataset/train_generated\AI_37 - Kritiraj Satapathy.png,0
+dataset/train_original\PREIMG_20.png,dataset/train_generated\AI_20 - Rishav.png,1
+dataset/train_original\PREIMG_36.png,dataset/train_generated\AI_37 - Kritiraj Satapathy.png,0
+dataset/train_original\PREIMG_21.png,dataset/train_generated\AI_17 - ARITRA PATRA.jpeg,0
+dataset/train_original\PREIMG_9.png,dataset/train_generated\AI_9 - Biswanath Dash.png,1
+dataset/train_original\PREIMG_28.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_2.png,dataset/train_generated\AI_24 - Atul.png,0
+dataset/train_original\PREIMG_18.png,dataset/train_generated\AI_18 - Rahul Kumar Baral.png,1
+dataset/train_original\PREIMG_5.png,dataset/train_generated\AI_3 - Ritesh.png,0
+dataset/train_original\PREIMG_46.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_41.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,0
+dataset/train_original\PREIMG_12.png,dataset/train_generated\AI_43 - Arpita Podh.png,0
+dataset/train_original\PREIMG_30.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,0
+dataset/train_original\PREIMG_30.png,dataset/train_generated\AI_28 - ऋतू राज राय.jpeg,0
+dataset/train_original\PREIMG_21.png,dataset/train_generated\AI_34 - P Ravali.png,0
+dataset/train_original\PREIMG_19.png,dataset/train_generated\AI_22 - Puspal Das.png,0
+dataset/train_original\PREIMG_35.png,dataset/train_generated\AI_31 - Roniit Podder.png,0
+dataset/train_original\PREIMG_24.png,dataset/train_generated\AI_24 - Atul.png,1
+dataset/train_original\PREIMG_43.png,dataset/train_generated\AI_42 - Pruthwiraj Sahoo.png,0
+dataset/train_original\PREIMG_1.png,dataset/train_generated\AI_36 - Kuldeep Nayak.png,0
+dataset/train_original\PREIMG_22.png,dataset/train_generated\AI_23 - Anuj Kumar.png,0
+dataset/train_original\PREIMG_35.png,dataset/train_generated\AI_36 - Kuldeep Nayak.png,0
+dataset/train_original\PREIMG_39.png,dataset/train_generated\AI_13 - ᴅᴜʀɢᴀ ᴩʀᴀꜱᴀᴅ ɴᴀyᴀᴋ.png,0
+dataset/train_original\PREIMG_13.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_3.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_14.png,dataset/train_generated\AI_30 - Aditya Swain.png,0
+dataset/train_original\PREIMG_7.png,dataset/train_generated\AI_12 - Snehal Priyadarshi.png,0
+dataset/train_original\PREIMG_15.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_22.png,dataset/train_generated\AI_37 - Kritiraj Satapathy.png,0
+dataset/train_original\PREIMG_41.png,dataset/train_generated\AI_43 - Arpita Podh.png,0
+dataset/train_original\PREIMG_37.png,dataset/train_generated\AI_32 - Aruba Ariz.png,0
+dataset/train_original\PREIMG_35.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,1
+dataset/train_original\PREIMG_26.png,dataset/train_generated\AI_28 - ऋतू राज राय.jpeg,0
+dataset/train_original\PREIMG_40.png,dataset/train_generated\AI_40 - Sai Sourav Sahu.png,1
+dataset/train_original\PREIMG_33.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_34.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,0
+dataset/train_original\PREIMG_40.png,dataset/train_generated\AI_2 - Kaman Das.png,0
+dataset/train_original\PREIMG_41.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,0
+dataset/train_original\PREIMG_17.png,dataset/train_generated\AI_10 - AMAN DASH.png,0
+dataset/train_original\PREIMG_8.png,dataset/train_generated\AI_9 - Biswanath Dash.png,0
+dataset/train_original\PREIMG_17.png,dataset/train_generated\AI_19 - Abinash Behera.png,0
+dataset/train_original\PREIMG_23.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,0
+dataset/train_original\PREIMG_4.png,dataset/train_generated\AI_6 - Aryan kumar Sahu.png,0
+dataset/train_original\PREIMG_38.png,dataset/train_generated\AI_2 - Kaman Das.png,0
+dataset/train_original\PREIMG_28.png,dataset/train_generated\AI_30 - Aditya Swain.png,0
+dataset/train_original\PREIMG_19.png,dataset/train_generated\AI_19 - Abinash Behera.png,1
+dataset/train_original\PREIMG_6.png,dataset/train_generated\AI_4 - Satyajeet Nayak.png,0
+dataset/train_original\PREIMG_9.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_31.png,dataset/train_generated\AI_32 - Aruba Ariz.png,0
+dataset/train_original\PREIMG_27.png,dataset/train_generated\AI_10 - AMAN DASH.png,0
+dataset/train_original\PREIMG_4.png,dataset/train_generated\AI_2 - Kaman Das.png,0
+dataset/train_original\PREIMG_45.png,dataset/train_generated\AI_23 - Anuj Kumar.png,0
+dataset/train_original\PREIMG_20.png,dataset/train_generated\AI_12 - Snehal Priyadarshi.png,0
+dataset/train_original\PREIMG_44.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,1
+dataset/train_original\PREIMG_41.png,dataset/train_generated\AI_42 - Pruthwiraj Sahoo.png,0
+dataset/train_original\PREIMG_14.png,dataset/train_generated\AI_12 - Snehal Priyadarshi.png,0
+dataset/train_original\PREIMG_21.png,dataset/train_generated\AI_19 - Abinash Behera.png,0
+dataset/train_original\PREIMG_44.png,dataset/train_generated\AI_46 - Sidhant Bhushan.png,0
+dataset/train_original\PREIMG_40.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,0
+dataset/train_original\PREIMG_39.png,dataset/train_generated\AI_37 - Kritiraj Satapathy.png,0
+dataset/train_original\PREIMG_12.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_45.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,0
+dataset/train_original\PREIMG_35.png,dataset/train_generated\AI_34 - P Ravali.png,0
+dataset/train_original\PREIMG_9.png,dataset/train_generated\AI_8 - Shivangi Swain.png,0
+dataset/train_original\PREIMG_20.png,dataset/train_generated\AI_22 - Puspal Das.png,0
+dataset/train_original\PREIMG_4.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_23.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_23.png,dataset/train_generated\AI_22 - Puspal Das.png,0
+dataset/train_original\PREIMG_15.png,dataset/train_generated\AI_46 - Sidhant Bhushan.png,0
+dataset/train_original\PREIMG_7.png,dataset/train_generated\AI_1 - Priyanshu Chandra.png,0
+dataset/train_original\PREIMG_35.png,dataset/train_generated\AI_7 - Shahdeo.png,0
+dataset/train_original\PREIMG_42.png,dataset/train_generated\AI_4 - Satyajeet Nayak.png,0
+dataset/train_original\PREIMG_10.png,dataset/train_generated\AI_26 - Kshitij Prasad.png,0
+dataset/train_original\PREIMG_15.png,dataset/train_generated\AI_18 - Rahul Kumar Baral.png,0
+dataset/train_original\PREIMG_22.png,dataset/train_generated\AI_24 - Atul.png,0
+dataset/train_original\PREIMG_24.png,dataset/train_generated\AI_22 - Puspal Das.png,0
+dataset/train_original\PREIMG_26.png,dataset/train_generated\AI_24 - Atul.png,0
+dataset/train_original\PREIMG_44.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,0
+dataset/train_original\PREIMG_38.png,dataset/train_generated\AI_33 - Rojali Pradhan.png,0
+dataset/train_original\PREIMG_37.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_17.png,dataset/train_generated\AI_17 - ARITRA PATRA.jpeg,1
+dataset/train_original\PREIMG_13.png,dataset/train_generated\AI_8 - Shivangi Swain.png,0
+dataset/train_original\PREIMG_40.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,0
+dataset/train_original\PREIMG_29.png,dataset/train_generated\AI_31 - Roniit Podder.png,0
+dataset/train_original\PREIMG_29.png,dataset/train_generated\AI_30 - Aditya Swain.png,0
+dataset/train_original\PREIMG_32.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_17.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,0
+dataset/train_original\PREIMG_11.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,1
+dataset/train_original\PREIMG_3.png,dataset/train_generated\AI_1 - Priyanshu Chandra.png,0
+dataset/train_original\PREIMG_28.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_29.png,dataset/train_generated\AI_27 - Riyana Das Majumder.png,0
+dataset/train_original\PREIMG_21.png,dataset/train_generated\AI_3 - Ritesh.png,0
+dataset/train_original\PREIMG_7.png,dataset/train_generated\AI_7 - Shahdeo.png,1
+dataset/train_original\PREIMG_16.png,dataset/train_generated\AI_17 - ARITRA PATRA.jpeg,0
+dataset/train_original\PREIMG_11.png,dataset/train_generated\AI_10 - AMAN DASH.png,0
+dataset/train_original\PREIMG_32.png,dataset/train_generated\AI_31 - Roniit Podder.png,0
+dataset/train_original\PREIMG_17.png,dataset/train_generated\AI_18 - Rahul Kumar Baral.png,0
+dataset/train_original\PREIMG_10.png,dataset/train_generated\AI_1 - Priyanshu Chandra.png,0
+dataset/train_original\PREIMG_18.png,dataset/train_generated\AI_17 - ARITRA PATRA.jpeg,0
+dataset/train_original\PREIMG_36.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,0
+dataset/train_original\PREIMG_29.png,dataset/train_generated\AI_29 - Baishanabee.jpg,1
+dataset/train_original\PREIMG_30.png,dataset/train_generated\AI_31 - Roniit Podder.png,0
+dataset/train_original\PREIMG_13.png,dataset/train_generated\AI_15 - Satyajit Sethy.png,0
+dataset/train_original\PREIMG_12.png,dataset/train_generated\AI_14 - Subhadeep Chakraborty.png,0
+dataset/train_original\PREIMG_23.png,dataset/train_generated\AI_31 - Roniit Podder.png,0
+dataset/train_original\PREIMG_32.png,dataset/train_generated\AI_32 - Aruba Ariz.png,1
+dataset/train_original\PREIMG_5.png,dataset/train_generated\AI_34 - P Ravali.png,0
+dataset/train_original\PREIMG_45.png,dataset/train_generated\AI_46 - Sidhant Bhushan.png,0
+dataset/train_original\PREIMG_40.png,dataset/train_generated\AI_42 - Pruthwiraj Sahoo.png,0
+dataset/train_original\PREIMG_28.png,dataset/train_generated\AI_27 - Riyana Das Majumder.png,0
+dataset/train_original\PREIMG_32.png,dataset/train_generated\AI_20 - Rishav.png,0
+dataset/train_original\PREIMG_18.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,0
+dataset/train_original\PREIMG_31.png,dataset/train_generated\AI_46 - Sidhant Bhushan.png,0
+dataset/train_original\PREIMG_32.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,0
+dataset/train_original\PREIMG_25.png,dataset/train_generated\AI_22 - Puspal Das.png,0
+dataset/train_original\PREIMG_25.png,dataset/train_generated\AI_23 - Anuj Kumar.png,0
+dataset/train_original\PREIMG_26.png,dataset/train_generated\AI_16 - Taiki.png,0
+dataset/train_original\PREIMG_41.png,dataset/train_generated\AI_18 - Rahul Kumar Baral.png,0
+dataset/train_original\PREIMG_15.png,dataset/train_generated\AI_15 - Satyajit Sethy.png,1
+dataset/train_original\PREIMG_26.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_45.png,dataset/train_generated\AI_13 - ᴅᴜʀɢᴀ ᴩʀᴀꜱᴀᴅ ɴᴀyᴀᴋ.png,0
+dataset/train_original\PREIMG_5.png,dataset/train_generated\AI_31 - Roniit Podder.png,0
+dataset/train_original\PREIMG_19.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_40.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,0
+dataset/train_original\PREIMG_31.png,dataset/train_generated\AI_7 - Shahdeo.png,0
+dataset/train_original\PREIMG_13.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_31.png,dataset/train_generated\AI_33 - Rojali Pradhan.png,0
+dataset/train_original\PREIMG_13.png,dataset/train_generated\AI_1 - Priyanshu Chandra.png,0
+dataset/train_original\PREIMG_23.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_36.png,dataset/train_generated\AI_7 - Shahdeo.png,0
+dataset/train_original\PREIMG_43.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_42.png,dataset/train_generated\AI_10 - AMAN DASH.png,0
+dataset/train_original\PREIMG_35.png,dataset/train_generated\AI_45 - Sushant Shourya.png,0
+dataset/train_original\PREIMG_9.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,0
+dataset/train_original\PREIMG_5.png,dataset/train_generated\AI_17 - ARITRA PATRA.jpeg,0
+dataset/train_original\PREIMG_3.png,dataset/train_generated\AI_2 - Kaman Das.png,0
+dataset/train_original\PREIMG_32.png,dataset/train_generated\AI_33 - Rojali Pradhan.png,0
+dataset/train_original\PREIMG_30.png,dataset/train_generated\AI_30 - Aditya Swain.png,1
+dataset/train_original\PREIMG_32.png,dataset/train_generated\AI_30 - Aditya Swain.png,0
+dataset/train_original\PREIMG_29.png,dataset/train_generated\AI_28 - ऋतू राज राय.jpeg,0
+dataset/train_original\PREIMG_16.png,dataset/train_generated\AI_15 - Satyajit Sethy.png,0
+dataset/train_original\PREIMG_23.png,dataset/train_generated\AI_10 - AMAN DASH.png,0
+dataset/train_original\PREIMG_27.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_43.png,dataset/train_generated\AI_24 - Atul.png,0
+dataset/train_original\PREIMG_11.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_7.png,dataset/train_generated\AI_8 - Shivangi Swain.png,0
+dataset/train_original\PREIMG_24.png,dataset/train_generated\AI_33 - Rojali Pradhan.png,0
+dataset/train_original\PREIMG_2.png,dataset/train_generated\AI_2 - Kaman Das.png,1
+dataset/train_original\PREIMG_43.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,0
+dataset/train_original\PREIMG_5.png,dataset/train_generated\AI_5 - Umesh Kumar Sahu.png,1
+dataset/train_original\PREIMG_7.png,dataset/train_generated\AI_9 - Biswanath Dash.png,0
+dataset/train_original\PREIMG_34.png,dataset/train_generated\AI_33 - Rojali Pradhan.png,0
+dataset/train_original\PREIMG_8.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,0
+dataset/train_original\PREIMG_3.png,dataset/train_generated\AI_27 - Riyana Das Majumder.png,0
+dataset/train_original\PREIMG_36.png,dataset/train_generated\AI_15 - Satyajit Sethy.png,0
+dataset/train_original\PREIMG_25.png,dataset/train_generated\AI_38 - Ujjwal Mohan.png,0
+dataset/train_original\PREIMG_26.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_11.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_2.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_5.png,dataset/train_generated\AI_43 - Arpita Podh.png,0
+dataset/train_original\PREIMG_2.png,dataset/train_generated\AI_40 - Sai Sourav Sahu.png,0
+dataset/train_original\PREIMG_25.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,1
+dataset/train_original\PREIMG_11.png,dataset/train_generated\AI_12 - Snehal Priyadarshi.png,0
+dataset/train_original\PREIMG_33.png,dataset/train_generated\AI_34 - P Ravali.png,0
+dataset/train_original\PREIMG_12.png,dataset/train_generated\AI_30 - Aditya Swain.png,0
+dataset/train_original\PREIMG_16.png,dataset/train_generated\AI_40 - Sai Sourav Sahu.png,0
+dataset/train_original\PREIMG_19.png,dataset/train_generated\AI_4 - Satyajeet Nayak.png,0
+dataset/train_original\PREIMG_42.png,dataset/train_generated\AI_41 - Dinesh Nandi.png,0
+dataset/train_original\PREIMG_34.png,dataset/train_generated\AI_2 - Kaman Das.png,0
+dataset/train_original\PREIMG_46.png,dataset/train_generated\AI_46 - Sidhant Bhushan.png,1
+dataset/train_original\PREIMG_33.png,dataset/train_generated\AI_10 - AMAN DASH.png,0
+dataset/train_original\PREIMG_45.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_19.png,dataset/train_generated\AI_17 - ARITRA PATRA.jpeg,0
+dataset/train_original\PREIMG_42.png,dataset/train_generated\AI_9 - Biswanath Dash.png,0
+dataset/train_original\PREIMG_27.png,dataset/train_generated\AI_4 - Satyajeet Nayak.png,0
+dataset/train_original\PREIMG_38.png,dataset/train_generated\AI_39 - Om Aryan Lenka.png,0
+dataset/train_original\PREIMG_28.png,dataset/train_generated\AI_29 - Baishanabee.jpg,0
+dataset/train_original\PREIMG_7.png,dataset/train_generated\AI_14 - Subhadeep Chakraborty.png,0
+dataset/train_original\PREIMG_16.png,dataset/train_generated\AI_21 - Palakh Agarwal.png,0
+dataset/train_original\PREIMG_27.png,dataset/train_generated\AI_26 - Kshitij Prasad.png,0
+dataset/train_original\PREIMG_4.png,dataset/train_generated\AI_5 - Umesh Kumar Sahu.png,0
+dataset/train_original\PREIMG_15.png,dataset/train_generated\AI_13 - ᴅᴜʀɢᴀ ᴩʀᴀꜱᴀᴅ ɴᴀyᴀᴋ.png,0
+dataset/train_original\PREIMG_42.png,dataset/train_generated\AI_42 - Pruthwiraj Sahoo.png,1
+dataset/train_original\PREIMG_43.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_6.png,dataset/train_generated\AI_7 - Shahdeo.png,0
+dataset/train_original\PREIMG_9.png,dataset/train_generated\AI_22 - Puspal Das.png,0
+dataset/train_original\PREIMG_27.png,dataset/train_generated\AI_19 - Abinash Behera.png,0
+dataset/train_original\PREIMG_8.png,dataset/train_generated\AI_46 - Sidhant Bhushan.png,0
+dataset/train_original\PREIMG_28.png,dataset/train_generated\AI_10 - AMAN DASH.png,0
+dataset/train_original\PREIMG_10.png,dataset/train_generated\AI_11 - Amitabh Mukherjee.jpg,0
+dataset/train_original\PREIMG_7.png,dataset/train_generated\AI_5 - Umesh Kumar Sahu.png,0
+dataset/train_original\PREIMG_22.png,dataset/train_generated\AI_19 - Abinash Behera.png,0
+dataset/train_original\PREIMG_29.png,dataset/train_generated\AI_25 - Sumedha Sengupta.jpeg,0
+dataset/train_original\PREIMG_3.png,dataset/train_generated\AI_4 - Satyajeet Nayak.png,0
+dataset/train_original\PREIMG_42.png,dataset/train_generated\AI_44 - Ritesh Sahoo.png,0
+dataset/train_original\PREIMG_11.png,dataset/train_generated\AI_2 - Kaman Das.png,0
+dataset/train_original\PREIMG_34.png,dataset/train_generated\AI_34 - P Ravali.png,1
+dataset/train_original\PREIMG_3.png,dataset/train_generated\AI_5 - Umesh Kumar Sahu.png,0
+dataset/train_original\PREIMG_10.png,dataset/train_generated\AI_8 - Shivangi Swain.png,0
+dataset/train_original\PREIMG_38.png,dataset/train_generated\AI_14 - Subhadeep Chakraborty.png,0
+dataset/train_original\PREIMG_8.png,dataset/train_generated\AI_4 - Satyajeet Nayak.png,0
+dataset/train_original\PREIMG_36.png,dataset/train_generated\AI_34 - P Ravali.png,0
+dataset/train_original\PREIMG_38.png,dataset/train_generated\AI_37 - Kritiraj Satapathy.png,0
+dataset/train_original\PREIMG_37.png,dataset/train_generated\AI_36 - Kuldeep Nayak.png,0
+dataset/train_original\PREIMG_13.png,dataset/train_generated\AI_13 - ᴅᴜʀɢᴀ ᴩʀᴀꜱᴀᴅ ɴᴀyᴀᴋ.png,1
+dataset/train_original\PREIMG_28.png,dataset/train_generated\AI_46 - Sidhant Bhushan.png,0
+dataset/train_original\PREIMG_37.png,dataset/train_generated\AI_35 - Ayesha Perveen.png,0
+dataset/train_original\PREIMG_14.png,dataset/train_generated\AI_14 - Subhadeep Chakraborty.png,1
+dataset/train_original\PREIMG_44.png,dataset/train_generated\AI_45 - Sushant Shourya.png,0
+dataset/train_original\PREIMG_44.png,dataset/train_generated\AI_42 - Pruthwiraj Sahoo.png,0
+dataset/train_original\PREIMG_19.png,dataset/train_generated\AI_27 - Riyana Das Majumder.png,0
+dataset/train_original\PREIMG_31.png,dataset/train_generated\AI_31 - Roniit Podder.png,1
+dataset/train_original\PREIMG_39.png,dataset/train_generated\AI_14 - Subhadeep Chakraborty.png,0
+dataset/train_original\PREIMG_22.png,dataset/train_generated\AI_22 - Puspal Das.png,1

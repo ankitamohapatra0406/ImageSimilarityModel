@@ -1,43 +1,40 @@
 import torch
 import torch.nn as nn
+import torchvision.models as models
 
 
 class Encoder(nn.Module):
 
     def __init__(self):
+
         super().__init__()
 
-        self.network = nn.Sequential(
-            nn.Conv2d(3,32,3),
-            nn.ReLU(),
-            nn.MaxPool2d(2),
+        backbone = models.resnet18(weights=models.ResNet18_Weights.DEFAULT)
 
-            nn.Conv2d(32,64,3),
-            nn.ReLU(),
-            nn.MaxPool2d(2),
+        self.feature_extractor = nn.Sequential(
+            *list(backbone.children())[:-1]
+        )
 
-            nn.Conv2d(64,128,3),
+        self.projection = nn.Sequential(
+            nn.Linear(512,256),
             nn.ReLU(),
-
-            nn.AdaptiveAvgPool2d((1,1))
+            nn.Linear(256,128)
         )
 
     def forward(self,x):
-        x=self.network(x)
-        return x.view(x.size(0),-1)
-
-
+        x = self.feature_extractor(x)
+        x = x.view(x.size(0),-1)
+        x = self.projection(x)
+        return x
+    
 class SiameseNetwork(nn.Module):
 
     def __init__(self):
         super().__init__()
-
-        self.encoder=Encoder()
+        self.encoder = Encoder()
 
     def forward(self,img1,img2):
 
-        feat1=self.encoder(img1)
-
-        feat2=self.encoder(img2)
-
-        return feat1,feat2
+        feature1 = self.encoder(img1)
+        feature2 = self.encoder(img2)
+        return feature1, feature2
