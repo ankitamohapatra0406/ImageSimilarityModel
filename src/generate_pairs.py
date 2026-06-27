@@ -5,116 +5,81 @@ import pandas as pd
 random.seed(42)
 
 
-def extract_number(filename):
-    return int(filename.split("_")[1].split(" ")[0].split(".")[0])
-
-
-def generate_pairs(original_dir, generated_dir, output_csv):
+def generate_triplets(original_dir, generated_dir, output_csv):
 
     originals = sorted(os.listdir(original_dir))
     generated = sorted(os.listdir(generated_dir))
 
-    pairs = []
+    triplets = []
 
     for org in originals:
 
-        org_num = extract_number(org)
+        org_num = int(org.split("_")[1].split(".")[0])
 
-        # Positive Pair
+        # Find matching AI image (positive)
         positive = None
 
         for gen in generated:
-            if extract_number(gen) == org_num:
+
+            gen_num = int(gen.split("_")[1].split(" ")[0])
+
+            if gen_num == org_num:
                 positive = gen
                 break
 
-        if positive is not None:
-            pairs.append([
-                os.path.join(original_dir, org),
-                os.path.join(generated_dir, positive),
-                1
-            ])
+        if positive is None:
+            continue
 
-      
-        # Hard Negatives
-        hard_negatives = []
+        positive_path = os.path.join(
+            generated_dir,
+            positive
+        )
 
-        nearby_ids = {
-            org_num - 2,
-            org_num - 1,
-            org_num + 1,
-            org_num + 2
-        }
-
+        # Every incorrect AI image becomes a negative
         for gen in generated:
 
-            gen_num = extract_number(gen)
+            gen_num = int(gen.split("_")[1].split(" ")[0])
 
-            if gen_num in nearby_ids:
-                hard_negatives.append(gen)
+            if gen_num == org_num:
+                continue
 
-        # Maximum 4 hard negatives
-        hard_negatives = hard_negatives[:4]
+            negative_path = os.path.join(
+                generated_dir,
+                gen
+            )
 
-    
-        # Random Negatives
-        remaining = []
-
-        for gen in generated:
-
-            gen_num = extract_number(gen)
-
-            if (
-                gen_num != org_num
-                and gen not in hard_negatives
-            ):
-                remaining.append(gen)
-
-        random.shuffle(remaining)
-
-        random_negatives = remaining[:4]
-
-        
-        # Save Hard Negatives
-        for gen in hard_negatives:
-
-            pairs.append([
+            triplets.append([
                 os.path.join(original_dir, org),
-                os.path.join(generated_dir, gen),
-                0
+                positive_path,
+                negative_path
             ])
 
-        # Save Random Negatives
-        for gen in random_negatives:
-
-            pairs.append([
-                os.path.join(original_dir, org),
-                os.path.join(generated_dir, gen),
-                0
-            ])
-
-    random.shuffle(pairs)
+    random.shuffle(triplets)
 
     df = pd.DataFrame(
-        pairs,
-        columns=["img1", "img2", "label"]
+        triplets,
+        columns=[
+            "anchor",
+            "positive",
+            "negative"
+        ]
     )
 
     df.to_csv(output_csv, index=False)
 
     print(f"\n{output_csv} created")
     print(df.head())
-    print(f"Total pairs: {len(df)}")
+    print("Total Triplets :", len(df))
 
 
-generate_pairs(
+generate_triplets(
     "dataset/train_original",
     "dataset/train_generated",
-    "dataset/train_pairs.csv"
+    "dataset/train_triplets.csv"
 )
 
-generate_pairs(
+generate_triplets(
     "dataset/test_original",
     "dataset/test_generated",
-    "dataset/test_pairs.csv"
+    "dataset/test_triplets.csv"
 )

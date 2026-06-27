@@ -2,19 +2,19 @@ import torch
 from PIL import Image
 from torchvision import transforms
 from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics import accuracy_score, roc_auc_score, precision_recall_fscore_support
 import pandas as pd
+import numpy as np
 
 from model import SiameseNetwork
 
-# Device
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 transform = transforms.Compose([
-    transforms.Resize((224, 224)),
+    transforms.Resize((224,224)),
     transforms.ToTensor()
 ])
 
-# Load Model
 model = SiameseNetwork().to(device)
 
 model.load_state_dict(
@@ -26,57 +26,68 @@ model.load_state_dict(
 
 model.eval()
 
-# Load Test CSV
 df = pd.read_csv("dataset/test_pairs.csv")
 
-correct = 0
+scores = []
+labels = []
 
-positive_scores = []
-negative_scores = []
+print("-"*90)
 
-print("-" * 80)
-
-for index, row in df.iterrows():
+for i, row in df.iterrows():
 
     img1 = Image.open(row["img1"]).convert("RGB")
     img2 = Image.open(row["img2"]).convert("RGB")
 
-    t1 = transform(img1).unsqueeze(0).to(device)
-    t2 = transform(img2).unsqueeze(0).to(device)
+    img1 = transform(img1).unsqueeze(0).to(device)
+    img2 = transform(img2).unsqueeze(0).to(device)
 
     with torch.no_grad():
-        emb1 = model.encoder(t1)
-        emb2 = model.encoder(t2)
+
+        emb1 = model.encoder(img1)
+        emb2 = model.encoder(img2)
 
     similarity = cosine_similarity(
         emb1.cpu().numpy(),
         emb2.cpu().numpy()
     )[0][0]
 
-    score = ((similarity + 1) / 2) * 100
+    score = ((similarity + 1)/2)*100
 
-    prediction = 1 if score >= 70 else 0
+    scores.append(score)
+    labels.append(row["label"])
 
-    label = row["label"]
+scores = np.array(scores)
+labels = np.array(labels)
 
-    if prediction == label:
-        correct += 1
+best_acc = 0
+best_threshold = 0
 
-    if label == 1:
-        positive_scores.append(score)
-    else:
-        negative_scores.append(score)
+for threshold in np.arange(40,95,0.5):
 
-    print(
-        f"{index+1:02d}. "
-        f"{score:6.2f}%   "
-        f"Pred={prediction}   "
-        f"True={label}"
-    )
+    preds = (scores >= threshold).astype(int)
 
-print("-" * 80)
+    acc = accuracy_score(labels,preds)
 
-accuracy = correct / len(df) * 100
-print(f"\nAccuracy : {accuracy:.2f}%")
-print(f"Positive Avg : {sum(positive_scores)/len(positive_scores):.2f}%")
-print(f"Negative Avg : {sum(negative_scores)/len(negative_scores):.2f}%")
+    if acc > best_acc:
+        best_acc = acc
+        best_threshold = threshold
+
+preds = (scores >= best_threshold).astype(int)
+
+precision, recall, f1, _ = precision_recall_fscore_support(
+    labels,
+    preds,
+    average="binary"
+)
+
+roc = roc_auc_score(labels, scores)
+
+print(f"\nBest Threshold : {best_threshold:.2f}%")
+print(f"Accuracy       : {best_acc*100:.2f}%")
+print(f"Precision      : {precision:.4f}")
+print(f"Recall         : {recall:.4f}")
+print(f"F1 Score       : {f1:.4f}")
+print(f"ROC-AUC        : {roc:.4f}")
+
+print("\nPositive Avg :", scores[labels==1].mean())
+print("Negative Avg :", scores[labels==0].mean())

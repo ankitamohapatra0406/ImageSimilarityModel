@@ -1,0 +1,133 @@
+anchor,positive,negative
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_55 - Antima Maity.png
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_55 - Antima Maity.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_55 - Antima Maity.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_55 - Antima Maity.png
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_55 - Antima Maity.png
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_55 - Antima Maity.png
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_55 - Antima Maity.png
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_47.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_58.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_55 - Antima Maity.png
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_56 - Ayush.png
+dataset/test_original\PREIMG_49.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_50.png,dataset/test_generated\AI_50 - Kumar Sanchit.png,dataset/test_generated\AI_58 - Utkarsh Sinha.png
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_53 - Karan Thakur.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_51 - Jinendra Banthia.png
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_48 - Amit Malik.png
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_54 - Soubhik Maji.png
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_55 - Antima Maity.png
+dataset/test_original\PREIMG_57.png,dataset/test_generated\AI_57 - Swapnil Mohanty.jpg,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_52.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png,dataset/test_generated\AI_47 - Sreejit Sahoo.png
+dataset/test_original\PREIMG_51.png,dataset/test_generated\AI_51 - Jinendra Banthia.png,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_56.png,dataset/test_generated\AI_56 - Ayush.png,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_52 - Rishabh Kumar Pandey.png
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_54.png,dataset/test_generated\AI_54 - Soubhik Maji.png,dataset/test_generated\AI_55 - Antima Maity.png
+dataset/test_original\PREIMG_48.png,dataset/test_generated\AI_48 - Amit Malik.png,dataset/test_generated\AI_49 - Prince Pradhan.jpg
+dataset/test_original\PREIMG_55.png,dataset/test_generated\AI_55 - Antima Maity.png,dataset/test_generated\AI_50 - Kumar Sanchit.png
+dataset/test_original\PREIMG_53.png,dataset/test_generated\AI_53 - Karan Thakur.png,dataset/test_generated\AI_55 - Antima Maity.png
