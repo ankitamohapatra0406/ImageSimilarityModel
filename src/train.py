@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
+from tqdm import tqdm
 
 from data_loader import SimilarityDataset
 from model import SiameseNetwork
@@ -11,6 +12,8 @@ def main():
     device = torch.device(
         "cuda" if torch.cuda.is_available() else "cpu"
     )
+
+    print(f"Using Device : {device}")
 
     dataset = SimilarityDataset(
         "dataset/train_triplets.csv"
@@ -23,6 +26,9 @@ def main():
         num_workers=0
     )
 
+    print(f"Dataset Size : {len(dataset)}")
+    print(f"Total Batches : {len(loader)}")
+
     model = SiameseNetwork().to(device)
 
     criterion = nn.TripletMarginLoss(
@@ -31,16 +37,16 @@ def main():
     )
 
     optimizer = torch.optim.Adam(
-    filter(
-        lambda p: p.requires_grad,
-        model.parameters()
-    ),
-    lr=1e-4
-)
+        filter(
+            lambda p: p.requires_grad,
+            model.parameters()
+        ),
+        lr=1e-4
+    )
 
     epochs = 30
 
-    print("Training Started...\n")
+    print("\nTraining Started...\n")
 
     for epoch in range(epochs):
 
@@ -48,7 +54,13 @@ def main():
 
         total_loss = 0
 
-        for anchor, positive, negative in loader:
+        progress_bar = tqdm(
+            loader,
+            desc=f"Epoch {epoch+1}/{epochs}",
+            leave=True
+        )
+
+        for anchor, positive, negative in progress_bar:
 
             anchor = anchor.to(device)
             positive = positive.to(device)
@@ -67,15 +79,18 @@ def main():
             )
 
             loss.backward()
-
             optimizer.step()
 
             total_loss += loss.item()
 
+            progress_bar.set_postfix(
+                loss=f"{loss.item():.4f}"
+            )
+
         avg_loss = total_loss / len(loader)
 
         print(
-            f"Epoch [{epoch+1}/{epochs}]  Average Loss: {avg_loss:.4f}"
+            f"Epoch [{epoch+1}/{epochs}] Average Loss : {avg_loss:.4f}"
         )
 
     torch.save(
