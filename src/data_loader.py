@@ -15,25 +15,22 @@ class SimilarityDataset(Dataset):
             transforms.ToTensor()
         ])
 
+        self.cache = {}
+
     def __len__(self):
         return len(self.data)
 
+    def _get_image(self, path):
+        path = path.replace('\\', '/')
+        if path not in self.cache:
+            img = Image.open(path).convert("RGB")
+            self.cache[path] = self.transform(img)
+        return self.cache[path]
+
     def __getitem__(self, index):
 
-        anchor = Image.open(
-            self.data.iloc[index, 0]
-        ).convert("RGB")
+        anchor = self._get_image(self.data.iloc[index, 0])
+        positive = self._get_image(self.data.iloc[index, 1])
+        negative = self._get_image(self.data.iloc[index, 2])
 
-        positive = Image.open(
-            self.data.iloc[index, 1]
-        ).convert("RGB")
-
-        negative = Image.open(
-            self.data.iloc[index, 2]
-        ).convert("RGB")
-
-        return (
-            self.transform(anchor),
-            self.transform(positive),
-            self.transform(negative)
-        )
+        return anchor, positive, negative
