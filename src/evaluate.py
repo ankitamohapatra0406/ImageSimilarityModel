@@ -5,10 +5,16 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics import accuracy_score, roc_auc_score, precision_recall_fscore_support
 import pandas as pd
 import numpy as np
+from tqdm import tqdm
 
 from model import SiameseNetwork
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+if torch.cuda.is_available():
+    device = torch.device("cuda")
+elif torch.backends.mps.is_available():
+    device = torch.device("mps")
+else:
+    device = torch.device("cpu")
 
 transform = transforms.Compose([
     transforms.Resize((224,224)),
@@ -33,10 +39,10 @@ labels = []
 
 print("-"*90)
 
-for i, row in df.iterrows():
+for i, row in tqdm(df.iterrows(), total=len(df), desc="Evaluating"):
 
-    img1 = Image.open(row["img1"]).convert("RGB")
-    img2 = Image.open(row["img2"]).convert("RGB")
+    img1 = Image.open(row["img1"].replace('\\', '/')).convert("RGB")
+    img2 = Image.open(row["img2"].replace('\\', '/')).convert("RGB")
 
     img1 = transform(img1).unsqueeze(0).to(device)
     img2 = transform(img2).unsqueeze(0).to(device)

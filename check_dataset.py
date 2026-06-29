@@ -1,30 +1,22 @@
 from PIL import Image
 import pandas as pd
+from tqdm import tqdm
 
 df = pd.read_csv("dataset/train_triplets.csv")
 
 print("Rows:", len(df))
 
-for i, row in df.iterrows():
-
-    print(f"Checking row {i}...", end=" ")
+for i, row in tqdm(df.iterrows(), total=len(df), desc="Checking dataset"):
 
     try:
 
-        print("Anchor", end=" ")
-        Image.open(row["anchor"]).load()
-
-        print("Positive", end=" ")
-        Image.open(row["positive"]).load()
-
-        print("Negative", end=" ")
-        Image.open(row["negative"]).load()
-
-        print("OK")
+        Image.open(row["anchor"].replace('\\', '/')).load()
+        Image.open(row["positive"].replace('\\', '/')).load()
+        Image.open(row["negative"].replace('\\', '/')).load()
 
     except Exception as e:
 
-        print("\nFAILED")
+        print(f"\nFAILED on row {i}")
 
         print(row)
 
